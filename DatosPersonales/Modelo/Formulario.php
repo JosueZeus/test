@@ -1,8 +1,6 @@
 <?php
 require_once  '../../Conexion.php';
 
-
-
 class Formulario extends Conexion
 {
     public function __construct()
